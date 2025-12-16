@@ -1,4 +1,4 @@
-custid~fname~lname~age~profession
+custid~fname~lname~age~professio
 4000001~Kristina~Chung~55~Pilot
 4000002~Paige~Chen~77~Teacher
 4000003~Sherri~Melton~34~Firefighter
@@ -9997,4 +9997,5 @@ custid~fname~lname~age~profession
 4009996~Tonya~McIntosh~56~Engineering technician
 4009997~Ron~Grimes~36~Computer hardware engineer
 4009998~Tracey~Bullock~60~Computer hardware engineer
+
 4009999~Ray~Hewitt~64~Carpenter
