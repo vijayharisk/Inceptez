@@ -1,0 +1,6 @@
+101,Arun,31,PREPAID,
+102,Meera,45,Bangalore,POSTPAID 
+103,Irfan,29,Hyderabad,PREPAID 
+104,Raj,52,Mumbai,POSTPAID 
+105,27,Delhi,PREPAID 
+106,Sneha,abc,Pune,PREPAID

@@ -1,0 +1,6 @@
+customer_id\tvoice_mins\tdata_mb\tsms_count 
+101\t320\t1500\t20 
+102\t120\t4000\t5 
+103\t540\t600\t52 
+104\t45\t200\t2 
+105\t0\t0\t0

@@ -1,0 +1,3 @@
+event_id|customer_id|tower_id|signal_strength|timestamp 
+5001|101|TWR01|-80|2025-01-10 10:21:54 
+5002|104|TWR05|-75|2025-01-10 11:01:12
